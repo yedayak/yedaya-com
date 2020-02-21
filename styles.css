@@ -1,0 +1,16 @@
+body {
+    background-color: #d87093;
+    vertical-align: top;
+}
+
+h1 {
+    font-size: 20vw;
+    color: whitesmoke;
+    text-align: center;
+    vertical-align: middle;
+}
+button {
+    border: none;
+    background-color: transparent;
+    color: thistle;
+}
