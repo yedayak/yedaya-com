@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="theme-color" content="#d87093">
+    <script src="./index.js"></script>
     <link rel='stylesheet' href="./styles.css">
 
 </head>
@@ -14,8 +15,7 @@
 
 
 <button id='self-destroyer' 
-onclick="bu = document.getElementById('self-destroyer');
-bu.parentNode.removeChild(bu)">Go!</button>
+onclick="ClickHandler(event)">Go!</button>
 
 <noscript>
     <p>This won't work for you :(</p>
