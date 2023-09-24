@@ -1,0 +1,12 @@
+{
+    "name": "Yedaya As A Service",
+    "icons": [
+        {
+            "src": "./assests/spiral.png",
+            "type": "image/png",
+            "sizes": "600x600"
+        }
+    ],
+    "start_url": "https://yedaya.com",
+    "display": "standalone"
+}
