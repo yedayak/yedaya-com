@@ -2,7 +2,7 @@
     "name": "Yedaya As A Service",
     "icons": [
         {
-            "src": "./assests/spiral.png",
+            "src": "assets/spiral.png",
             "type": "image/png",
             "sizes": "600x600"
         }
